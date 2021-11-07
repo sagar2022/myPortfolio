@@ -1,0 +1,85 @@
+p{
+    color: #004381;
+    font-size: 1.35rem;
+}
+
+code{
+    padding: 0 .2rem;
+    background-color: rgb(180, 180, 180);
+    color: #222;
+    border-radius: .2rem;
+}
+
+.git-section-title h1{
+    font-size: 2.5rem;
+    /* text-align: center; */
+}
+
+.git-card-footer {
+    display: flex;
+    /* grid-template-columns: auto 1fr;
+    -webkit-box-align: center; */
+    align-items: center;
+    /* margin-left: 6.5rem; */
+  }
+.git-card-footer img {
+    width: 2rem;
+    height: 2rem;
+    -o-object-fit: cover;
+    object-fit: cover;
+    margin-right: 1rem;
+    /* border-radius: 20%; */
+  }
+.git-card-footer p {
+    margin-bottom: 0;
+    text-transform: uppercase;
+    justify-self: end;
+    color: var(--clr-primary-5);
+    font-size: 0.85rem;
+  }
+
+.git-img {
+    margin: 3rem 0;
+}
+
+
+.git-lists li{
+    list-style-type: disc;
+    color: #004381;
+    margin-left: 1rem;
+}
+.git-que{
+    margin-top: 3rem;
+}
+
+.git-install{
+    margin-top: 3rem;
+}
+.git-install a{
+    color: #004381;
+    text-decoration: underline;
+}
+.git-create{
+    margin-top: 3rem;
+}
+.git-create a{
+    text-decoration: underline;
+    color: #004381;
+}
+.git-create img{
+    margin: 2rem 0;
+}
+.git-project{
+    margin-top: 3rem;
+}
+.todo-txt{
+    background-color: rgb(202, 202, 202);
+    padding: 2rem;
+    margin: 2rem 0;
+}
+.todo-txt ol{
+    margin-left: 1rem;
+}
+.github{
+    margin-top: 3rem;
+}
