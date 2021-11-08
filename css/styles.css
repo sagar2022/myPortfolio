@@ -180,6 +180,7 @@ p {
 .bg-grey {
   background: var(--clr-grey-10);
 }
+
 /*
 =============== 
 Navbar
@@ -826,6 +827,7 @@ Blog
   height: 100%;
   border-radius: var(--radius);
   -webkit-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
   visibility: visible;
 }
 .card-front {
