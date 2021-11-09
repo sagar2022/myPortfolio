@@ -83,3 +83,13 @@ code{
 .github{
     margin-top: 3rem;
 }
+.github-repo{
+    margin-top: 3rem;
+}
+.github-repo a{
+    text-decoration: underline;
+}
+.github-repo h4{
+    font-size: 1.5rem;
+    margin-top: 3rem;
+}
